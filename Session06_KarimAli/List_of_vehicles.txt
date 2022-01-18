@@ -1,0 +1,13 @@
+Entry No.,Brand,Type,Color,Price
+1,Toyota,Hatchback,Blue,50000
+2,Toyota,Sports,Red,100000
+3,Toyota,Truck,Grey,70000
+4,Chrystler,Sedan,Black,80000
+5,Chevorlet,Sedan,White,40000
+6,Toyota,Sedan,Brown,30000
+7,Dodge,Truck,Red,70000
+8,Dodge,Muscle,Yellow,90000
+9,Perodua,Hatchback,Black,30000
+10,Perodua,Sedan,Brown,20000
+11,Toyota,Hatchback,Grey,50000
+12,Toyota,Hatchback,Black,50000

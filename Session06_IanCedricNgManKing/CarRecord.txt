@@ -1,0 +1,4 @@
+RecordName:name:kind:color:price
+Red Fred:Fred:Convertible:Red:120000.00
+Blue Greg:Greg:4x4:Blue:300000.00
+Yellow Kami:Kami:Super Car:Yellow:400000.00

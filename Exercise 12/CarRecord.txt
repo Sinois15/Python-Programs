@@ -1,0 +1,3 @@
+Red Fred:Fred:Convertible:Red:120.00
+Blue Greg:Greg:4x4:Blue:300.00
+Yellow Kami:Kami:Super Car:Yellow:4000.00
